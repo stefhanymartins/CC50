@@ -1,4 +1,4 @@
 1. O usuário ingresa o número do cartão.
 2. O programa multiplica cada segundo digito por 2, começando com o penúltimo dígito do cartão.
-3. Soma os dígitos desses produtos e adiciona essa soma à soma dos dígitos que não foram multiplicados por 2.
+3. O programa soma os dígitos desses produtos e adiciona essa soma à soma dos dígitos que não foram multiplicados por 2.
 4. Se o último dígito do total for 0 o programa mostra o nome da bandeira do cartão do contrário INVALID.
